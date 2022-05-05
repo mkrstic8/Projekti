@@ -1,0 +1,12 @@
+C:\Users\Administrator\Desktop\miljana pismeni\windows\5.1.2022\z25 studenti\z25 studenti\bin\Release\z25 studenti.exe.config
+C:\Users\Administrator\Desktop\miljana pismeni\windows\5.1.2022\z25 studenti\z25 studenti\bin\Release\z25 studenti.exe
+C:\Users\Administrator\Desktop\miljana pismeni\windows\5.1.2022\z25 studenti\z25 studenti\bin\Release\z25 studenti.pdb
+C:\Users\Administrator\Desktop\miljana pismeni\windows\5.1.2022\z25 studenti\z25 studenti\obj\Release\z25_studenti.FormaSmerovi.resources
+C:\Users\Administrator\Desktop\miljana pismeni\windows\5.1.2022\z25 studenti\z25 studenti\obj\Release\z25_studenti.FormaStudenti.resources
+C:\Users\Administrator\Desktop\miljana pismeni\windows\5.1.2022\z25 studenti\z25 studenti\obj\Release\z25_studenti.frmLogin.resources
+C:\Users\Administrator\Desktop\miljana pismeni\windows\5.1.2022\z25 studenti\z25 studenti\obj\Release\z25_studenti.Properties.Resources.resources
+C:\Users\Administrator\Desktop\miljana pismeni\windows\5.1.2022\z25 studenti\z25 studenti\obj\Release\z25_studenti.StudentiGlavna.resources
+C:\Users\Administrator\Desktop\miljana pismeni\windows\5.1.2022\z25 studenti\z25 studenti\obj\Release\z25 studenti.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\miljana pismeni\windows\5.1.2022\z25 studenti\z25 studenti\obj\Release\z25 studenti.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\miljana pismeni\windows\5.1.2022\z25 studenti\z25 studenti\obj\Release\z25 studenti.exe
+C:\Users\Administrator\Desktop\miljana pismeni\windows\5.1.2022\z25 studenti\z25 studenti\obj\Release\z25 studenti.pdb

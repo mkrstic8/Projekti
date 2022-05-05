@@ -1,0 +1,20 @@
+C:\Users\Administrator\source\repos\UpariPolja-igra za 2 igraca\UpariPolja-igra za 2 igraca\bin\Debug\UpariPolja-igra za 2 igraca.exe.config
+C:\Users\Administrator\source\repos\UpariPolja-igra za 2 igraca\UpariPolja-igra za 2 igraca\bin\Debug\UpariPolja-igra za 2 igraca.exe
+C:\Users\Administrator\source\repos\UpariPolja-igra za 2 igraca\UpariPolja-igra za 2 igraca\bin\Debug\UpariPolja-igra za 2 igraca.pdb
+C:\Users\Administrator\source\repos\UpariPolja-igra za 2 igraca\UpariPolja-igra za 2 igraca\obj\Debug\UpariPolja-igra za 2 igraca.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\UpariPolja-igra za 2 igraca\UpariPolja-igra za 2 igraca\obj\Debug\UpariPolja_igra_za_2_igraca.Form1.resources
+C:\Users\Administrator\source\repos\UpariPolja-igra za 2 igraca\UpariPolja-igra za 2 igraca\obj\Debug\UpariPolja_igra_za_2_igraca.Properties.Resources.resources
+C:\Users\Administrator\source\repos\UpariPolja-igra za 2 igraca\UpariPolja-igra za 2 igraca\obj\Debug\UpariPolja-igra za 2 igraca.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\UpariPolja-igra za 2 igraca\UpariPolja-igra za 2 igraca\obj\Debug\UpariPolja-igra za 2 igraca.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\UpariPolja-igra za 2 igraca\UpariPolja-igra za 2 igraca\obj\Debug\UpariPolja-igra za 2 igraca.exe
+C:\Users\Administrator\source\repos\UpariPolja-igra za 2 igraca\UpariPolja-igra za 2 igraca\obj\Debug\UpariPolja-igra za 2 igraca.pdb
+C:\Users\user\Desktop\upari polja\UpariPolja-igra za 2 igraca 3 verzija\UpariPolja-igra za 2 igraca\bin\Debug\UpariPolja-igra za 2 igraca.exe.config
+C:\Users\user\Desktop\upari polja\UpariPolja-igra za 2 igraca 3 verzija\UpariPolja-igra za 2 igraca\bin\Debug\UpariPolja-igra za 2 igraca.exe
+C:\Users\user\Desktop\upari polja\UpariPolja-igra za 2 igraca 3 verzija\UpariPolja-igra za 2 igraca\bin\Debug\UpariPolja-igra za 2 igraca.pdb
+C:\Users\user\Desktop\upari polja\UpariPolja-igra za 2 igraca 3 verzija\UpariPolja-igra za 2 igraca\obj\Debug\UpariPolja-igra za 2 igraca.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\upari polja\UpariPolja-igra za 2 igraca 3 verzija\UpariPolja-igra za 2 igraca\obj\Debug\UpariPolja_igra_za_2_igraca.Form1.resources
+C:\Users\user\Desktop\upari polja\UpariPolja-igra za 2 igraca 3 verzija\UpariPolja-igra za 2 igraca\obj\Debug\UpariPolja_igra_za_2_igraca.Properties.Resources.resources
+C:\Users\user\Desktop\upari polja\UpariPolja-igra za 2 igraca 3 verzija\UpariPolja-igra za 2 igraca\obj\Debug\UpariPolja-igra za 2 igraca.csproj.GenerateResource.cache
+C:\Users\user\Desktop\upari polja\UpariPolja-igra za 2 igraca 3 verzija\UpariPolja-igra za 2 igraca\obj\Debug\UpariPolja-igra za 2 igraca.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\upari polja\UpariPolja-igra za 2 igraca 3 verzija\UpariPolja-igra za 2 igraca\obj\Debug\UpariPolja-igra za 2 igraca.exe
+C:\Users\user\Desktop\upari polja\UpariPolja-igra za 2 igraca 3 verzija\UpariPolja-igra za 2 igraca\obj\Debug\UpariPolja-igra za 2 igraca.pdb
