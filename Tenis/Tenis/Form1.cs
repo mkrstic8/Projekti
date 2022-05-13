@@ -282,8 +282,8 @@ namespace Tenis
                 igrac13 = igrac10;
             }
             igrac11.Gem = 0;
-            igrac11.Gem = 0;
-            igrac12.Set = 0;
+            igrac11.Set = 0;
+            igrac12.Gem = 0;
             igrac12.Set = 0;
 
             if (Uvecaj(igrac11, igrac12, label56, label78) == 1)
