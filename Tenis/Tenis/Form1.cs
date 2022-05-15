@@ -21,9 +21,6 @@ namespace Tenis
 
         int[] niz = new int[8];
         Random rand = new Random();
-        
-        /*string[] prvih8 = new string[8] { "Novak Djokovic", "Danil Medvedev", "Aleksandar Zverev","Rafael Nadal",
-        "Stefanos Cicipas","Karlos Alkaraz","Andrej Rubljov","Mateo Beretini" }; */
         Dictionary<int, string> recnik = new Dictionary<int, string>
         {
             {1,"Novak Djoković"},
@@ -48,12 +45,19 @@ namespace Tenis
 
         }
 
-
+        public double Verovatnoca(Igrac igracx, Igrac igracy)
+        {
+            if (igracx.Vrv > igracy.Vrv)
+                return (double)igracy.Vrv / (igracx.Vrv + igracy.Vrv);
+            else
+                return (double)igracx.Vrv / (igracx.Vrv + igracy.Vrv);
+        }
 
 
         public int Uvecaj(Igrac igracprvi, Igrac igracdrugi,Label labelx,Label labely)
         {
-            double j = ((double)igracdrugi.Vrv) / (igracprvi.Vrv + igracdrugi.Vrv);
+
+            double j = Verovatnoca(igracprvi, igracdrugi);
             int k = 3;
             while (k == 3)
             {
@@ -80,23 +84,15 @@ namespace Tenis
                     }
                     if (igracprvi.Set == 2)
                     {
-                        
-
-
                         k = 1;
                         break;
                     }
-
-                    
-                    //    Thread.Sleep(1000);
-                    //Application.DoEvents();
 
                 }
                 if (test < j)
                 {
 
                     igracdrugi.Gem += 1;
-
 
                     if (igracdrugi.Gem >= 6 && igracdrugi.Gem >= (igracprvi.Gem + 2))
                         {
@@ -114,18 +110,13 @@ namespace Tenis
                     }
                     if (igracdrugi.Set == 2)
                     {
-                       
-
                         k = 2;
                         break;
                     }
 
-                    
-                    //    Thread.Sleep(1000);
-                    //Application.DoEvents();
                 }
-                Stani();
 
+                Stani();
             }
             
             return k;
@@ -163,7 +154,6 @@ namespace Tenis
             Igrac igrac1 = new Igrac();
             igrac1.Gem = 0;
             igrac1.Set = 0;
-            //
             igrac1.Ime = recnik[1].ToString();
             igrac1.Vrv = poeni[1];
             Igrac igrac2 = new Igrac();
@@ -183,22 +173,14 @@ namespace Tenis
             igrac4.Vrv = poeni[niz[2]];
             Igrac igrac5 = new Igrac();
             Igrac igrac6 = new Igrac();
-            
             igrac5.Gem = 0;
             igrac5.Set = 0;
-            //
             igrac5.Ime = recnik[2].ToString();
             igrac5.Vrv = poeni[2];
             igrac6.Gem = 0;
             igrac6.Set = 0;
             igrac6.Ime = recnik[niz[3]].ToString();
             igrac6.Vrv = poeni[niz[3]];
-
-
-
-
-
-
             Igrac igrac7 = new Igrac();
             Igrac igrac8 = new Igrac();
             igrac7.Ime = recnik[niz[4]].ToString();
@@ -227,11 +209,6 @@ namespace Tenis
             igrac13.Set = 0;
             igrac14.Gem = 0;
             igrac14.Set = 0;
-
-
-
-
-
             label1.Text =  igrac1.Ime ;
             label2.Text = igrac2.Ime  ;
             label3.Text =  igrac3.Ime ;
@@ -240,9 +217,6 @@ namespace Tenis
             label6.Text =  igrac6.Ime;
             label7.Text =  igrac7.Ime ;
             label8.Text =  igrac8.Ime ;
-
-
-
 
             if (Uvecaj(igrac1, igrac2, label1, label2) == 1)
             {
@@ -279,12 +253,12 @@ namespace Tenis
             }
             if (Uvecaj(igrac7, igrac8, label7, label8) == 1)
             {
-                label78.Text =  igrac3.Ime ;
+                label78.Text =  igrac7.Ime ;
                 igrac12 = igrac7;
             }
             else
             {
-                label78.Text =  igrac4.Ime;
+                label78.Text =  igrac8.Ime;
                 igrac12 = igrac8;
             }
 
