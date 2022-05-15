@@ -38,69 +38,94 @@ namespace Tenis
         };
         int[] poeni = new int[9] { 0, 8260, 7990, 7020, 6435, 5750, 4773, 4115, 3895 };
 
+
+
+       public void Stani()
+        {
+            Application.DoEvents();
+            Thread.Sleep(800);
+            
+
+        }
+
+
+
+
         public int Uvecaj(Igrac igracprvi, Igrac igracdrugi,Label labelx,Label labely)
         {
             double j = ((double)igracdrugi.Vrv) / (igracprvi.Vrv + igracdrugi.Vrv);
             int k = 3;
             while (k == 3)
             {
-               
+                labelx.Text = igracprvi.Set.ToString() + igracprvi.Ime + igracprvi.Gem.ToString();
+                labely.Text = igracdrugi.Gem.ToString() + igracdrugi.Ime + igracdrugi.Set.ToString();
+                Stani();
                 double test = rand.NextDouble();
                 if(test >= j)
                 {
-
-                    
                     igracprvi.Gem += 1;
-                    
-                        
-                        if (igracprvi.Gem >= 6 && igracprvi.Gem >= (igracdrugi.Gem + 2))
+                    if (igracprvi.Gem >= 6 && igracprvi.Gem >= (igracdrugi.Gem + 2))
                         {
+                        Stani();
                         labelx.Text = igracprvi.Set.ToString() + igracprvi.Ime + igracprvi.Gem.ToString();
+                        labely.Text = igracdrugi.Gem.ToString() + igracdrugi.Ime + igracdrugi.Set.ToString();
+                        Stani();
                         igracprvi.Set += 1;
                         igracprvi.Gem = 0;
                         igracdrugi.Gem = 0;
+                        labelx.Text = igracprvi.Set.ToString() + igracprvi.Ime + igracprvi.Gem.ToString();
+                        labely.Text = igracdrugi.Gem.ToString() + igracdrugi.Ime + igracdrugi.Set.ToString();
+                        Stani();
 
                     }
                     if (igracprvi.Set == 2)
                     {
                         
-                        
+
+
                         k = 1;
+                        break;
                     }
+
                     
-                    Application.DoEvents();
-                        Thread.Sleep(1000);
-                        
-                    
+                    //    Thread.Sleep(1000);
+                    //Application.DoEvents();
+
                 }
                 if (test < j)
                 {
+
                     igracdrugi.Gem += 1;
-                    
 
 
                     if (igracdrugi.Gem >= 6 && igracdrugi.Gem >= (igracprvi.Gem + 2))
                         {
+                        Stani();
+                        labelx.Text = igracprvi.Set.ToString() + igracprvi.Ime + igracprvi.Gem.ToString();
                         labely.Text = igracdrugi.Gem.ToString() + igracdrugi.Ime + igracdrugi.Set.ToString();
+                        Stani();
                         igracdrugi.Set += 1;
                         igracprvi.Gem = 0;
                         igracdrugi.Gem = 0;
+                        labelx.Text = igracprvi.Set.ToString() + igracprvi.Ime + igracprvi.Gem.ToString();
+                        labely.Text = igracdrugi.Gem.ToString() + igracdrugi.Ime + igracdrugi.Set.ToString();
+                        Stani();
 
                     }
                     if (igracdrugi.Set == 2)
                     {
                        
-                        
+
                         k = 2;
+                        break;
                     }
+
                     
-                    Application.DoEvents();
-                        Thread.Sleep(1000);
-                        
+                    //    Thread.Sleep(1000);
+                    //Application.DoEvents();
                 }
-                
-                labelx.Text = igracprvi.Set.ToString() + igracprvi.Ime + igracprvi.Gem.ToString();
-                labely.Text = igracdrugi.Gem.ToString()  + igracdrugi.Ime + igracdrugi.Set.ToString();
+                Stani();
+
             }
             
             return k;
@@ -207,14 +232,14 @@ namespace Tenis
 
 
 
-            label1.Text = igrac1.Gem.ToString() + igrac1.Ime + igrac1.Set.ToString();
-            label2.Text = igrac2.Gem.ToString() + igrac2.Ime + igrac2.Set.ToString();
-            label3.Text = igrac3.Gem.ToString() + igrac3.Ime + igrac3.Set.ToString();
-            label4.Text = igrac4.Gem.ToString() + igrac4.Ime + igrac4.Set.ToString();
-            label5.Text = igrac5.Gem.ToString() + igrac5.Ime + igrac5.Set.ToString();
-            label6.Text = igrac6.Gem.ToString() + igrac6.Ime + igrac6.Set.ToString();
-            label7.Text = igrac7.Gem.ToString() + igrac7.Ime + igrac7.Set.ToString();
-            label8.Text = igrac8.Gem.ToString() + igrac8.Ime + igrac8.Set.ToString();
+            label1.Text =  igrac1.Ime ;
+            label2.Text = igrac2.Ime  ;
+            label3.Text =  igrac3.Ime ;
+            label4.Text =  igrac4.Ime;
+            label5.Text =  igrac5.Ime ;
+            label6.Text =  igrac6.Ime;
+            label7.Text =  igrac7.Ime ;
+            label8.Text =  igrac8.Ime ;
 
 
 
@@ -222,44 +247,44 @@ namespace Tenis
             if (Uvecaj(igrac1, igrac2, label1, label2) == 1)
             {
 
-                label12.Text = "0" + igrac1.Ime + "0";
+                label12.Text =  igrac1.Ime ;
                 igrac9 = igrac1;
             }
             else
             {
-                label12.Text = "0" + igrac2.Ime + "0";
+                label12.Text = igrac2.Ime ;
                 igrac9 = igrac2;
             }
             if (Uvecaj(igrac3, igrac4, label3, label4) == 1)
             {
-                label34.Text = "0" + igrac3.Ime + "0";
+                label34.Text =  igrac3.Ime ;
                 igrac10 = igrac3;
             }
             else
             {
-                label34.Text = "0" + igrac4.Ime + "0";
+                label34.Text =  igrac4.Ime ;
                 igrac10 = igrac4;
             }
 
             if (Uvecaj(igrac5, igrac6, label5, label6) == 1)
             {
 
-                label56.Text = "0" + igrac5.Ime + "0";
+                label56.Text =  igrac5.Ime ;
                 igrac11 = igrac5;
             }
             else
             {
-                label56.Text = "0" + igrac6.Ime + "0";
+                label56.Text = igrac6.Ime ;
                 igrac11 = igrac6;
             }
             if (Uvecaj(igrac7, igrac8, label7, label8) == 1)
             {
-                label78.Text = "0" + igrac3.Ime + "0";
+                label78.Text =  igrac3.Ime ;
                 igrac12 = igrac7;
             }
             else
             {
-                label78.Text = "0" + igrac4.Ime + "0";
+                label78.Text =  igrac4.Ime;
                 igrac12 = igrac8;
             }
 
@@ -273,12 +298,12 @@ namespace Tenis
             if (Uvecaj(igrac9, igrac10, label12, label34) == 1)
             {
 
-                label1234.Text = "0" + igrac9.Ime + "0" ;
+                label1234.Text =  igrac9.Ime  ;
                 igrac13 = igrac9;
             }
             else
             {
-                label1234.Text = "0" + igrac10.Ime + "0";
+                label1234.Text = igrac10.Ime ;
                 igrac13 = igrac10;
             }
             igrac11.Gem = 0;
@@ -289,12 +314,12 @@ namespace Tenis
             if (Uvecaj(igrac11, igrac12, label56, label78) == 1)
             {
 
-                label5678.Text = "0" + igrac11.Ime + "0";
+                label5678.Text = igrac11.Ime ;
                 igrac14 = igrac11;
             }
             else
             {
-                label5678.Text = "0" +  igrac12.Ime + "0";
+                label5678.Text =  igrac12.Ime ;
                 igrac14 = igrac12;
             }
 

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\source\\repos\\Tenis\\Tenis\\Tenis.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Desktop\\Projekti\\Tenis\\Tenis\\Tenis.csproj",
       "projectName": "Tenis",
-      "projectPath": "C:\\Users\\user\\source\\repos\\Tenis\\Tenis\\Tenis.csproj",
+      "projectPath": "C:\\Users\\user\\Desktop\\Projekti\\Tenis\\Tenis\\Tenis.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\source\\repos\\Tenis\\Tenis\\obj\\",
+      "outputPath": "C:\\Users\\user\\Desktop\\Projekti\\Tenis\\Tenis\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",

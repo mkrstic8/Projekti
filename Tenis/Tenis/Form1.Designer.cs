@@ -113,27 +113,27 @@ namespace Tenis
             this.label12.AutoSize = true;
             this.label12.Location = new System.Drawing.Point(55, 46);
             this.label12.Name = "label12";
-            this.label12.Size = new System.Drawing.Size(77, 15);
+            this.label12.Size = new System.Drawing.Size(95, 15);
             this.label12.TabIndex = 5;
-            this.label12.Text = "Četvrtfinale 1";
+            this.label12.Text = "Prvi polufinalista";
             // 
             // label34
             // 
             this.label34.AutoSize = true;
             this.label34.Location = new System.Drawing.Point(44, 46);
             this.label34.Name = "label34";
-            this.label34.Size = new System.Drawing.Size(77, 15);
+            this.label34.Size = new System.Drawing.Size(104, 15);
             this.label34.TabIndex = 6;
-            this.label34.Text = "Četvrtfinale 2";
+            this.label34.Text = "Drugi polufinalista";
             // 
             // label1234
             // 
             this.label1234.AutoSize = true;
             this.label1234.Location = new System.Drawing.Point(88, 62);
             this.label1234.Name = "label1234";
-            this.label1234.Size = new System.Drawing.Size(69, 15);
+            this.label1234.Size = new System.Drawing.Size(71, 15);
             this.label1234.TabIndex = 7;
-            this.label1234.Text = "Polufinale 1";
+            this.label1234.Text = "Prvi finalista";
             // 
             // label5
             // 
@@ -176,36 +176,36 @@ namespace Tenis
             this.label56.AutoSize = true;
             this.label56.Location = new System.Drawing.Point(42, 46);
             this.label56.Name = "label56";
-            this.label56.Size = new System.Drawing.Size(77, 15);
+            this.label56.Size = new System.Drawing.Size(99, 15);
             this.label56.TabIndex = 12;
-            this.label56.Text = "Četvrtfinale 3";
+            this.label56.Text = "Treći polufinalista";
             // 
             // label78
             // 
             this.label78.AutoSize = true;
             this.label78.Location = new System.Drawing.Point(46, 46);
             this.label78.Name = "label78";
-            this.label78.Size = new System.Drawing.Size(77, 15);
+            this.label78.Size = new System.Drawing.Size(110, 15);
             this.label78.TabIndex = 13;
-            this.label78.Text = "Četvrtfinale 4";
+            this.label78.Text = "Četvrti polufinalista";
             // 
             // label5678
             // 
             this.label5678.AutoSize = true;
             this.label5678.Location = new System.Drawing.Point(94, 62);
             this.label5678.Name = "label5678";
-            this.label5678.Size = new System.Drawing.Size(69, 15);
+            this.label5678.Size = new System.Drawing.Size(80, 15);
             this.label5678.TabIndex = 14;
-            this.label5678.Text = "Polufinale 2";
+            this.label5678.Text = "Drugi finalista";
             // 
             // labelwiner
             // 
             this.labelwiner.AutoSize = true;
             this.labelwiner.Location = new System.Drawing.Point(132, 47);
             this.labelwiner.Name = "labelwiner";
-            this.labelwiner.Size = new System.Drawing.Size(38, 15);
+            this.labelwiner.Size = new System.Drawing.Size(89, 15);
             this.labelwiner.TabIndex = 15;
-            this.labelwiner.Text = "Finale";
+            this.labelwiner.Text = "Pobednik finala";
             // 
             // groupBox5
             // 
