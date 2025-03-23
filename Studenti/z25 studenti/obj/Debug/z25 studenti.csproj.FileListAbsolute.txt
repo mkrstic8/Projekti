@@ -1,0 +1,39 @@
+C:\Users\Administrator\source\repos\windows\5.1.2022\z25 studenti\z25 studenti\bin\Debug\z25 studenti.exe.config
+C:\Users\Administrator\source\repos\windows\5.1.2022\z25 studenti\z25 studenti\bin\Debug\z25 studenti.exe
+C:\Users\Administrator\source\repos\windows\5.1.2022\z25 studenti\z25 studenti\bin\Debug\z25 studenti.pdb
+C:\Users\Administrator\source\repos\windows\5.1.2022\z25 studenti\z25 studenti\obj\Debug\z25 studenti.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\windows\5.1.2022\z25 studenti\z25 studenti\obj\Debug\z25_studenti.frmLogin.resources
+C:\Users\Administrator\source\repos\windows\5.1.2022\z25 studenti\z25 studenti\obj\Debug\z25_studenti.Properties.Resources.resources
+C:\Users\Administrator\source\repos\windows\5.1.2022\z25 studenti\z25 studenti\obj\Debug\z25_studenti.StudentiGlavna.resources
+C:\Users\Administrator\source\repos\windows\5.1.2022\z25 studenti\z25 studenti\obj\Debug\z25 studenti.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\windows\5.1.2022\z25 studenti\z25 studenti\obj\Debug\z25 studenti.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\windows\5.1.2022\z25 studenti\z25 studenti\obj\Debug\z25 studenti.exe
+C:\Users\Administrator\source\repos\windows\5.1.2022\z25 studenti\z25 studenti\obj\Debug\z25 studenti.pdb
+C:\Users\Administrator\source\repos\windows\5.1.2022\z25 studenti\z25 studenti\obj\Debug\z25_studenti.FormaSmerovi.resources
+C:\Users\Administrator\source\repos\windows\5.1.2022\z25 studenti\z25 studenti\obj\Debug\z25_studenti.FormaStudenti.resources
+C:\Users\Administrator\Desktop\miljana pismeni\windows\5.1.2022\z25 studenti\z25 studenti\bin\Debug\z25 studenti.exe.config
+C:\Users\Administrator\Desktop\miljana pismeni\windows\5.1.2022\z25 studenti\z25 studenti\bin\Debug\z25 studenti.exe
+C:\Users\Administrator\Desktop\miljana pismeni\windows\5.1.2022\z25 studenti\z25 studenti\bin\Debug\z25 studenti.pdb
+C:\Users\Administrator\Desktop\miljana pismeni\windows\5.1.2022\z25 studenti\z25 studenti\obj\Debug\z25_studenti.FormaSmerovi.resources
+C:\Users\Administrator\Desktop\miljana pismeni\windows\5.1.2022\z25 studenti\z25 studenti\obj\Debug\z25_studenti.FormaStudenti.resources
+C:\Users\Administrator\Desktop\miljana pismeni\windows\5.1.2022\z25 studenti\z25 studenti\obj\Debug\z25_studenti.frmLogin.resources
+C:\Users\Administrator\Desktop\miljana pismeni\windows\5.1.2022\z25 studenti\z25 studenti\obj\Debug\z25_studenti.Properties.Resources.resources
+C:\Users\Administrator\Desktop\miljana pismeni\windows\5.1.2022\z25 studenti\z25 studenti\obj\Debug\z25_studenti.StudentiGlavna.resources
+C:\Users\Administrator\Desktop\miljana pismeni\windows\5.1.2022\z25 studenti\z25 studenti\obj\Debug\z25 studenti.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\miljana pismeni\windows\5.1.2022\z25 studenti\z25 studenti\obj\Debug\z25 studenti.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\miljana pismeni\windows\5.1.2022\z25 studenti\z25 studenti\obj\Debug\z25 studenti.exe
+C:\Users\Administrator\Desktop\miljana pismeni\windows\5.1.2022\z25 studenti\z25 studenti\obj\Debug\z25 studenti.pdb
+C:\Users\Administrator\Desktop\miljana pismeni\windows\5.1.2022\z25 studenti\z25 studenti\obj\Debug\z25 studenti.csprojAssemblyReference.cache
+C:\Users\user\Desktop\z25 studenti-20220505T121819Z-001\z25 studenti\z25 studenti\bin\Debug\z25 studenti.exe.config
+C:\Users\user\Desktop\z25 studenti-20220505T121819Z-001\z25 studenti\z25 studenti\bin\Debug\z25 studenti.exe
+C:\Users\user\Desktop\z25 studenti-20220505T121819Z-001\z25 studenti\z25 studenti\bin\Debug\z25 studenti.pdb
+C:\Users\user\Desktop\z25 studenti-20220505T121819Z-001\z25 studenti\z25 studenti\obj\Debug\z25 studenti.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\z25 studenti-20220505T121819Z-001\z25 studenti\z25 studenti\obj\Debug\z25_studenti.FormaSmerovi.resources
+C:\Users\user\Desktop\z25 studenti-20220505T121819Z-001\z25 studenti\z25 studenti\obj\Debug\z25_studenti.FormaStudenti.resources
+C:\Users\user\Desktop\z25 studenti-20220505T121819Z-001\z25 studenti\z25 studenti\obj\Debug\z25_studenti.frmLogin.resources
+C:\Users\user\Desktop\z25 studenti-20220505T121819Z-001\z25 studenti\z25 studenti\obj\Debug\z25_studenti.Properties.Resources.resources
+C:\Users\user\Desktop\z25 studenti-20220505T121819Z-001\z25 studenti\z25 studenti\obj\Debug\z25_studenti.StudentiGlavna.resources
+C:\Users\user\Desktop\z25 studenti-20220505T121819Z-001\z25 studenti\z25 studenti\obj\Debug\z25 studenti.csproj.GenerateResource.cache
+C:\Users\user\Desktop\z25 studenti-20220505T121819Z-001\z25 studenti\z25 studenti\obj\Debug\z25 studenti.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\z25 studenti-20220505T121819Z-001\z25 studenti\z25 studenti\obj\Debug\z25 studenti.exe
+C:\Users\user\Desktop\z25 studenti-20220505T121819Z-001\z25 studenti\z25 studenti\obj\Debug\z25 studenti.pdb

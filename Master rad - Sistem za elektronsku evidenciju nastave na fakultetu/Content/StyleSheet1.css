@@ -1,0 +1,71 @@
+﻿.row-style {
+    font-size: 12px;
+    background-color: #EFF3FB;
+}
+
+.alternating-row-style {
+    background-color: white;
+}
+
+.edit-row-style {
+    background-color: #2461BF;
+}
+
+.footer-style {
+    background-color: #507CD1;
+    color: black;
+    font-weight: bold;
+}
+
+.header-style {
+    background-color: #507CD1;
+    font-weight: bold;
+    color: white;
+}
+
+.pager-style {
+    background-color: #2461BF;
+    color: white;
+    text-align: center;
+}
+
+.selected-row-style {
+    background-color: #D1DDF1;
+    font-weight: bold;
+    color: #000000;
+}
+
+.sorted-ascending-cell-style {
+    background-color: #F5F7FB;
+}
+
+.sorted-ascending-header-style {
+    background-color: #6D95E1;
+}
+
+.sorted-descending-cell-style {
+    background-color: #E9EBEF;
+}
+
+.sorted-descending-header-style {
+    background-color: #4870BE;
+}
+
+/* Responsive Styles */
+@media only screen and (max-width: 600px) {
+    .row-style {
+        font-size: 10px;
+    }
+
+    .footer-style {
+        font-size: 14px;
+    }
+
+    .header-style {
+        font-size: 14px;
+    }
+
+    .pager-style {
+        font-size: 14px;
+    }
+}
